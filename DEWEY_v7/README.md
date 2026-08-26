@@ -3,7 +3,8 @@
 ## Overview
 
 All steps are executed via bash scripts generated in Python and logged per subject/session. Intermediate QA images (SlicesDir) are produced at each major stage.
-DEWEY generates a bash script and log file specific to each participant session - can be parallelised via PAR_POOL.sh
+DEWEY generates a bash script and log file specific to each participant session - can be parallelised via PAR_POOL.sh 
+
 ---
 
 ## Pipeline at a Glance
